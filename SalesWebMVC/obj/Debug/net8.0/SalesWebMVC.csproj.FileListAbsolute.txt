@@ -225,3 +225,14 @@ C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\net8.0\refint\Sale
 C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\net8.0\SalesWebMVC.pdb
 C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\net8.0\SalesWebMVC.genruntimeconfig.cache
 C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\net8.0\ref\SalesWebMVC.dll
+C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\net8.0\SalesWebMVC.sourcelink.json
+C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\net8.0\Npgsql.dll
+C:\Users\gutha\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
